@@ -48,7 +48,7 @@ header nav :hover{
     font-size: 1.5em;
     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa-rt.jpg');
     background-size: cover;
-    height: 400px;
+    height: 600px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -93,6 +93,11 @@ header nav :hover{
 
 .filme-principal .container{
     width: 70%;
+}
+
+.carrosel-filmes{
+    margin-top: 3em;
+    padding: 0 2em;
 }
 
 .box-filme{
